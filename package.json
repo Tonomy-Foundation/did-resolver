@@ -31,8 +31,8 @@
   "author": "Pelle Braendgaard",
   "contributors": [
     "Mircea Nistor <mircea.nistor@mesh.xyz>",
-    "Jack Tanner <Jack@tonomy.foundation>",
-    "Rebal alhaqash <Rebal@tonomy.foundation>"
+    "Jack Tanner <jack+public@tonomy.foundation>",
+    "Rebal Alhaqash <rebal@tonomy.foundation>"
   ],
   "license": "Apache-2.0",
   "scripts": {

@@ -1,12 +1,15 @@
 {
-  "name": "did-resolver",
-  "version": "4.0.1",
+  "name": "@tonomy/did-resolver",
+  "version": "4.0.4",
   "description": "Resolve DID documents",
   "type": "module",
   "source": "src/resolver.ts",
   "main": "./lib/resolver.cjs",
   "module": "./lib/resolver.module.js",
   "types": "./lib/resolver.d.ts",
+  "publishConfig": {
+    "access": "public"
+  },
   "files": [
     "lib",
     "dist",
@@ -27,7 +30,9 @@
   },
   "author": "Pelle Braendgaard",
   "contributors": [
-    "Mircea Nistor <mircea.nistor@mesh.xyz>"
+    "Mircea Nistor <mircea.nistor@mesh.xyz>",
+    "Jack Tanner <jack+public@tonomy.foundation>",
+    "Rebal Alhaqash <rebal@tonomy.foundation>"
   ],
   "license": "Apache-2.0",
   "scripts": {
